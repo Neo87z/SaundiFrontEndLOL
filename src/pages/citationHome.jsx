@@ -27,7 +27,7 @@ function Home() {
         </div>
 
         {/*  Page sections */}
-        <iframe style={{marginLeft:'8.5%',marginTop:'8%'}} width="1000px" height="600px" src="https://1842-2402-4000-10c2-7d5-e8f4-81d-de78-d31f.in.ngrok.io/" />
+        <iframe style={{marginLeft:'8.5%',marginTop:'8%'}} width="1000px" height="600px" src="https://b3e8196177a4.in.ngrok.io/" />
 
         
 
