@@ -70,7 +70,7 @@ function Header() {
                 <Link to="/chat-bot" className="text-black-300 hover:text-black-200 px-4 py-2 flex items-center transition duration-150 ease-in-out">Community Features</Link>
               </li>
               <li>
-                <Link to="/angel-det" className="text-black-300 hover:text-black-200 px-4 py-2 flex items-center transition duration-150 ease-in-out">Angel Detection</Link>
+                <Link to="/angel-det" className="text-black-300 hover:text-black-200 px-4 py-2 flex items-center transition duration-150 ease-in-out">Chat Bot</Link>
               </li>
               
               {/* 1st level: hover */}
